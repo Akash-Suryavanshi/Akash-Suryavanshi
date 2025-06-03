@@ -40,6 +40,10 @@
 
 ---
 📫 Reach me on: [GitHub](https://github.com/Akash-Suryavanshi)
-📧akashkumar26867@gmail.com 
+📧akashkumar26867@gmail.com
+🌍 Location: Etah, Uttar Pradesh, India
+
+---
+
 ### 🧠 Fun Fact:
 I love learning new tech & simplifying complex things for others!
