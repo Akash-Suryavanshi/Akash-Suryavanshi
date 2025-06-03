@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash Suryavanshi
 
-<!--
-**Akash-Suryavanshi/Akash-Suryavanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎥 I create motivational & AI-based content on YouTube  
+🤖 Learning AI, GitHub, Prompt Engineering  
+🧠 Exploring design, internships, and self-growth  
+🎯 Building skills step-by-step during my preparation
 
-Here are some ideas to get you started:
+## 📌 Goals for 2025
+- ✅ Build AI projects
+- ✅ Learn 4K video editing
+- ✅ Upload meaningful YouTube content
+- ✅ Explore remote internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💬 “Keep learning, stay consistent.”
+
+---
+📫 Reach me on: [GitHub](https://github.com/Akash-Suryavanshi)
+📧akashkumar26867@gmail.com 
+### 🧠 Fun Fact:
+I love learning new tech & simplifying complex things for others!
